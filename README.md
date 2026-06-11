@@ -29,7 +29,7 @@ Para ello se realizaron procesos de limpieza y filtrado de datos, análisis esta
 
 **¿Cuál sería el costo estimado de equipar un gimnasio utilizando productos de las categorías Sports y Health comercializados durante los años 2024 y 2025?**
 
-Esta pregunta permite aproximar una inversión inicial utilizando precios observados en transacciones reales de comercio electrónico, aportando una referencia basada en evidencia para la adquisición de equipamiento y accesorios relacionados con la actividad física.
+Esta pregunta permite aproximar una inversión inicial utilizando precios observados en un dataset sintético de comercio electrónico, aportando una referencia basada en evidencia para la adquisición de equipamiento y accesorios relacionados con la actividad física.
 
 ---
 
