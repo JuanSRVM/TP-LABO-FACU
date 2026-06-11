@@ -75,8 +75,12 @@ Posteriormente se seleccionaron productos considerados relevantes para el equipa
 
 ### 4. Visualización de datos
 
+Se desarrollaron distintos gráficos para analizar:
 
-
+ * Distribución de precios por subcategoría.
+ * Comparación entre marcas y segmentos de mercado.
+ * Evolución temporal de precios.
+ * Relación entre variables relevantes para la toma de decisiones.
 
 ### 5. Aplicación de conceptos de la materia
 
