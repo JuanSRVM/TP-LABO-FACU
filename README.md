@@ -135,7 +135,14 @@ Los resultados obtenidos permiten identificar qué tipos de productos generan ma
 
 ## Uso de Inteligencia Artificial
 
+La Inteligencia Artificial fue utilizada como herramienta de asistencia durante distintas etapas del trabajo, incluyendo:
 
+Exploración inicial del dataset.
+Generación y optimización de código en Python.
+Propuestas de visualizaciones.
+Redacción y documentación del proceso analítico.
+
+Todas las decisiones metodológicas, interpretaciones y conclusiones fueron revisadas y validadas por los integrantes del grupo.
 
 ---
 
