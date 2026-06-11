@@ -80,6 +80,32 @@ Posteriormente se seleccionaron productos considerados relevantes para el equipa
 
 ### 5. Aplicación de conceptos de la materia
 
+Con el objetivo de complementar el análisis descriptivo y responder a la pregunta de investigación, se implementó una función en Python que calcula indicadores económicos y de rentabilidad para cada sub-categoría de productos.
+
+La función agrupa la información por sub-categoría y calcula:
+
+* **Cantidad total vendida (Q)**.
+* **Ingreso Total (IT)**.
+* **Costo Total (CT)**.
+* **Beneficio**.
+* **Margen de rentabilidad (%)**.
+* **Precio promedio por unidad**.
+* **Costo promedio por unidad**.
+* **Costos fijos estimados (CF)**.
+* **Punto de equilibrio en unidades (Q*)**.
+
+A partir de estos indicadores se construyó una tabla resumen y una visualización comparando ingresos, costos y beneficios por sub-categoría.
+
+### Supuesto para el punto de equilibrio
+
+El dataset utilizado no diferencia explícitamente entre costos fijos y costos variables. Por este motivo, y únicamente con fines ilustrativos, se asumió que los costos fijos representan el 20% del costo total de cada sub-categoría.
+
+Este supuesto permite estimar el punto de equilibrio mediante la fórmula:
+
+**Q* = CF / (Precio Promedio − Costo Promedio)**
+
+Los resultados obtenidos permiten identificar qué tipos de productos generan mayores beneficios y cuáles requieren menores volúmenes de venta para cubrir sus costos estimados.
+
 
 
 ---
