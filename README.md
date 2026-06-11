@@ -141,3 +141,5 @@ Los resultados obtenidos permiten identificar qué tipos de productos generan ma
 
 ## Conclusiones
 
+A partir del análisis de un dataset sintético de comercio electrónico fue posible construir una estimación fundamentada del costo de equipar un gimnasio utilizando productos de las categorías Sports y Health. El análisis arrojó una inversión estimada de USD 1.794 para adquirir una unidad de cada uno de los 15 productos seleccionados, con precios llamativamente homogéneos entre subcategorías y marcas.
+Los resultados detallados, tablas y visualizaciones pueden consultarse en el notebook y en el informe académico incluidos en este repositorio.
