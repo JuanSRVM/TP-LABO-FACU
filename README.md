@@ -71,7 +71,13 @@ Posteriormente se seleccionaron productos considerados relevantes para el equipa
 
 ### 3. Análisis estadístico
 
+Se calcularon indicadores agrupados por producto, subcategoría y período temporal, incluyendo:
 
+Cantidad de ventas.
+Precio promedio.
+Ingresos totales.
+Ganancia total.
+Evolución anual de las ventas.
 
 ### 4. Visualización de datos
 
