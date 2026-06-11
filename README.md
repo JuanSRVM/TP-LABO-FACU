@@ -16,7 +16,14 @@ Primer Cuatrimestre 2026
 * Lautaro Caprile
 
 ---
+## Informe académico
 
+El informe fue redactado en LaTeX y compilado en Overleaf.
+
+- Este es el link al proyecto de overleaf: https://www.overleaf.com/read/vppkcwffnttb#6a367d
+- El PDF compilado está disponible en este repositorio: informe_tp.pdf
+  
+---
 ## Resumen
 
 El presente trabajo tiene como objetivo aplicar técnicas de exploración, transformación, análisis y visualización de datos sobre un conjunto masivo de transacciones de comercio electrónico. A partir de un dataset con aproximadamente un millón de registros correspondientes al período 2024–2026, se desarrolla un análisis orientado a estimar el costo de equipar un gimnasio utilizando productos comercializados dentro de las categorías Sports y Health.
